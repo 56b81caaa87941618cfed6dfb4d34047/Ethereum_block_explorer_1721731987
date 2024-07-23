@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive map highlighting Ethereum blockchain network activity\", \"checked\": true}, {\"feature\": \"Real-time notifications for new Ethereum blockchains discoveries\", \"checked\": false}, {\"feature\": \"Customizable themes for the app interface\", \"checked\": true}, {\"feature\": \"Search functionality for easy navigation through Ethereum blockchains\", \"checked\": true}, {\"feature\": \"User profile section for personalized experiences and settings\", \"checked\": false}, {\"feature\": \"Detailed about section explaining Ethereum and the app's purpose\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 111, \"time_taken\": \"0:00:06.814436\"}",
         "timestamp": "23072024105347",
         "message_id": "guest23072024105339"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and navigation",
+        "timestamp": "23072024105529",
+        "message_id": "guest23072024105529"
     }
 ]
